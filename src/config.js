@@ -1,6 +1,6 @@
 // config.js
 const config = {
-    apiUrl: 'https://stepcargo:3001',
+    apiUrl: 'https://stepcargo.kz:3001',
     nameCargo: 'STEP карго'
   };
   
